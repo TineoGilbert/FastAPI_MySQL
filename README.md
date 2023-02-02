@@ -1,3 +1,3 @@
 # FastAPI_MySQL
 
-![](FASTAPI_MYSQL/.png)
+![](FASTAPI_MYSQL/fastapimysql.png)
